@@ -15,6 +15,11 @@
   <a href="LICENSE"><img alt="License: GPL-2.0-or-later" src="https://img.shields.io/badge/License-GPL--2.0--or--later-orange?style=flat-square"/></a>
 </p>
 
+> [!WARNING]
+> **Disclaimer & "Vibe Coded" Notice:**  
+> This project is **totally vibecoded**. It was cobbled together to fix issues on a specific machine and **may or may not work on your system**. Use it entirely at your own risk.  
+> **I take absolutely no responsibility** if anything breaks, your system panics, your keyboard catches fire, or anything goes wrong. You have been warned!
+
 ---
 
 ## Table of Contents
