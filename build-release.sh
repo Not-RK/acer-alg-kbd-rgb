@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: GPL-2.0-or-later
 set -euo pipefail
 
 PKG_NAME="alg-kbd-rgb"
@@ -33,6 +34,7 @@ tar -czf "${TARBALL}" -C "${STAGE_DIR}" "alg-kbd-rgb-pkg"
 
 cat > "${RUNFILE}" <<'RUN_EOF'
 #!/usr/bin/env bash
+# SPDX-License-Identifier: GPL-2.0-or-later
 set -euo pipefail
 
 ACTION="install"
