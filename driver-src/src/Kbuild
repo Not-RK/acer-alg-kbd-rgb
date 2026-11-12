@@ -1,0 +1,3 @@
+obj-m += clevo_wmi.o
+obj-m += tuxedo_keyboard.o
+obj-y += tuxedo_compatibility_check/

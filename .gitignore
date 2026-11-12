@@ -1,0 +1,15 @@
+dist/
+__pycache__/
+*.py[cod]
+*.o
+*.ko
+*.ko.cmd
+*.mod
+*.mod.c
+*.mod.cmd
+*.cmd
+.tmp_versions/
+Module.symvers
+modules.order
+*.tar.gz
+*.run
