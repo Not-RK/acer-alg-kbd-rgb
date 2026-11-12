@@ -1,6 +1,9 @@
-dist/
+# Python
 __pycache__/
 *.py[cod]
+*.pyo
+
+# Kernel build artifacts
 *.o
 *.ko
 *.ko.cmd
@@ -11,5 +14,10 @@ __pycache__/
 .tmp_versions/
 Module.symvers
 modules.order
-*.tar.gz
-*.run
+
+# Editor / IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
